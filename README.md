@@ -74,7 +74,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Chandra Kanth Reddy**
+**USHA RANI PITHANI**
 
 ---
 
